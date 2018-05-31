@@ -1,0 +1,42 @@
+.outer {
+	text-align: center;
+}
+
+.calculator {
+	border: 2px solid black;
+	width: 236px;
+	background-color: black;
+	margin: auto;
+}
+
+.display {
+	text-align: right;
+	height: 47px;
+	font-size: 45px;
+	background-color: white;
+}
+
+.key {
+	width: 57px;
+	height: 47px;
+	margin-right: -2px;
+	font-size: 25px;
+	border-style: groove;
+}
+
+.row {
+	padding: 1px;
+}
+
+.numeric {
+	background-color: darkgray;
+}
+
+.func {
+	background-color: orange;
+}
+
+.dud {
+	background-color: #ddd;
+}
+
