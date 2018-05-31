@@ -37,6 +37,11 @@ The calculator should store three values internally:
 
 The display area should update as a user clicks number buttons.
 
+When the user clicks a function button after the first and second
+values are entered (instead of =), the result should be saved in
+the first value and the new function should be saved as the
+selected operator.
+
 When the calculate button (=) is clicked, the calculator should
 apply the operation to the two stored numbers in the appropriate 
 order (important for subtraction and division) and update the
